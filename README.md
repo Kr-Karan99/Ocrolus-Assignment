@@ -10,7 +10,6 @@ A full-stack Content Management System built with Spring Boot and React.js.
 - Spring Security with JWT
 - Spring Data JPA
 - MySQL Database
-- Flyway Migration
 - JUnit 5 & Mockito for testing
 
 ### Frontend
@@ -92,20 +91,6 @@ npm install
 2. Run the frontend:
 ```bash
 npm start
-```
-
-## Testing
-
-### Backend Tests
-```bash
-cd backend
-./mvnw test
-```
-
-### Frontend Tests
-```bash
-cd frontend
-npm test
 ```
 
 ## API Documentation
