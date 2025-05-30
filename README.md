@@ -140,7 +140,25 @@ app.jwt.expiration=86400000
 # .env
 REACT_APP_API_URL=http://localhost:8080
 ```
+### Screenshots
+
+- Sign up page
 ![Screenshot 2025-05-30 110818](https://github.com/user-attachments/assets/48e3aa54-a253-4928-b62f-b24b20a58dd7)
+
+- Login page
 ![Screenshot 2025-05-30 110841](https://github.com/user-attachments/assets/b1243b9e-2017-4a9b-a949-891e6ae3332d)
+
+- Articles page (With Pagination)
 ![Screenshot 2025-05-30 110941](https://github.com/user-attachments/assets/6da87ef7-d55d-4fdf-97fa-df519cfbf76c)
+
+- Create Article
+![Screenshot 2025-05-30 111329](https://github.com/user-attachments/assets/08d89f3a-a877-4a5c-98c3-7989cefd9632)
+
+- Edit or Delete option
+![Screenshot 2025-05-30 111414](https://github.com/user-attachments/assets/7cd84f7f-dfcf-4025-9f06-e9d761e4c1d4)
+
+- Recently Viewed Article
+![Screenshot 2025-05-30 111458](https://github.com/user-attachments/assets/5e3c8476-069a-40fe-bef6-0ef4e950f716)
+
+- Logout
 ![Screenshot 2025-05-30 111010](https://github.com/user-attachments/assets/8840f25d-1bad-4b1c-91c6-ae6f8c39df87)
