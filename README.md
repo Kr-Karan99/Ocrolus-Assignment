@@ -140,3 +140,7 @@ app.jwt.expiration=86400000
 # .env
 REACT_APP_API_URL=http://localhost:8080
 ```
+![Screenshot 2025-05-30 110818](https://github.com/user-attachments/assets/48e3aa54-a253-4928-b62f-b24b20a58dd7)
+![Screenshot 2025-05-30 110841](https://github.com/user-attachments/assets/b1243b9e-2017-4a9b-a949-891e6ae3332d)
+![Screenshot 2025-05-30 110941](https://github.com/user-attachments/assets/6da87ef7-d55d-4fdf-97fa-df519cfbf76c)
+![Screenshot 2025-05-30 111010](https://github.com/user-attachments/assets/8840f25d-1bad-4b1c-91c6-ae6f8c39df87)
